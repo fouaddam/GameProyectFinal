@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976464516308",
+    "project_id": "appfinal-69723",
+    "storage_bucket": "appfinal-69723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976464516308:android:b791e0fca83b32ed11d741",
+        "android_client_info": {
+          "package_name": "com.SanFer.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976464516308-hjqi67h389f9cfd1191t0b9tmuni7bt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcouSiHAs7oJTUHZfUePfKoyMg4GPpfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976464516308-hjqi67h389f9cfd1191t0b9tmuni7bt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
